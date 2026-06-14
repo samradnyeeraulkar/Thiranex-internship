@@ -1,0 +1,35 @@
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background-color: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.app-container {
+    background: white;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+h1 { text-align: center; color: #333; }
+
+#task-form { display: flex; gap: 10px; margin-bottom: 20px; }
+#task-input { flex: 1; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }
+button { padding: 10px 15px; border: none; background: #007bff; color: white; border-radius: 4px; cursor: pointer; }
+button:hover { background: #0056b3; }
+
+.filters { display: flex; justify-content: space-between; margin-bottom: 15px; }
+.filters button { background: #e9ecef; color: #333; flex: 1; margin: 0 5px; }
+.filters button.active { background: #007bff; color: white; }
+
+ul { list-style: none; padding: 0; margin: 0; }
+li { display: flex; align-items: center; justify-content: space-between; padding: 10px; border-bottom: 1px solid #eee; }
+li.completed .task-text { text-decoration: line-through; color: #888; }
+
+.task-content { display: flex; align-items: center; gap: 10px; }
+.delete-btn { background: #dc3545; padding: 5px 10px; }
+.delete-btn:hover { background: #c82333; }
