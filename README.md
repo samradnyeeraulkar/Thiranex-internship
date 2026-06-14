@@ -1,64 +1,72 @@
-# 🚀 Thiranex Internship Journey
+# 🚀 Thiranex Internship Projects
 
-Welcome to the central hub for my internship projects at **Thiranex**! This repository serves as a comprehensive portfolio of the 5 key tasks I completed during my internship. It highlights my technical growth, problem-solving methodologies, and practical application of modern web development skills.
+Welcome to the central repository for my internship tasks at **Thiranex**. This repository contains all 5 projects assigned and completed during the internship period, showcasing my progress, problem-solving approaches, and application of various technical skills.
 
-## 👩‍💻 About the Author
+## 👨‍💻 Author
 
 **Samradnyee Raulkar**
-* **GitHub:** [@samradnyeeraulkar](https://github.com/samradnyeeraulkar)
-* **LinkedIn:** [Samradnyee Raulkar](https://www.linkedin.com/in/samradnyee-raulkar-83a88b416/)
 
-## 🛠️ Technology Stack
+- GitHub: [@samradnyeeraulkar](https://github.com/samradnyeeraulkar)
+- Linkedin: [Samradnyee Raulkar](https://www.linkedin.com/in/samradnyee-raulkar-83a88b416/)
 
-Throughout these tasks, I utilized a variety of modern web technologies to build robust and responsive applications:
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React/JSX, Tailwind CSS
-* **Backend / Data:** REST APIs, JSON, LocalStorage
-* **Tools & Deployment:** Git, GitHub, Vite, Vercel, VS Code
+## 🛠️ Technologies Used
 
----
-
-## 📁 Project Portfolio & Navigation
-
-Here is a detailed breakdown of the 5 core assignments included in this repository. Click on the respective project links to explore the source code and implementation details.
-
-### 1️⃣ [Task 1: Semantic HTML Portfolio Structure](./Task%201)
-* **Objective:** Develop a multi-page personal portfolio focusing entirely on modern semantic HTML5 architecture and WCAG accessibility standards.
-* **Key Concepts:** Implementation of semantic markup for SEO and screen-reader compatibility.
-* **Tech Stack:** HTML5
-
-### 2️⃣ [Task 2: Responsive Portfolio Design](./Task%202)
-* **Objective:** Elevate the semantic HTML structure into a visually appealing, fully responsive layout using advanced CSS techniques.
-* **Key Concepts:** Mastered CSS Grid and Flexbox for adaptive, mobile-first design architectures.
-* **Tech Stack:** HTML5, CSS3
-
-### 3️⃣ [Task 3: Interactive To-Do List Application](./Task%203)
-* **Objective:** Build a dynamic, client-side task manager to solidify concepts of DOM manipulation and browser storage.
-* **Key Concepts:** Event handling, complete CRUD (Create, Read, Update, Delete) operations, and LocalStorage persistence.
-* **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
-
-### 4️⃣ [Task 4: Real-Time Weather Dashboard](./Task%204)
-* **Objective:** Engineer a live weather dashboard that fetches and renders real-time meteorological data from a public RESTful API.
-* **Key Concepts:** Asynchronous JavaScript, modern Fetch API, async/await syntax, and JSON data parsing.
-* **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
-
-### 5️⃣ [Task 5: Thiranex - StyleStore (E-Commerce Capstone)](./Task%205)
-* **Objective:** Synthesize all internship learnings to architect, optimize, and deploy a full-scale web application resembling an online storefront.
-* **Key Concepts:** Modular component architecture, client-side routing, responsive UI design, and continuous deployment.
-* **Tech Stack:** HTML5, Tailwind CSS, JavaScript, React (Vite)
+- **Frontend:** HTML5, CSS3, JavaScript, React/JSX, Tailwind CSS
+- **Backend / Scripting:** JS
+- **Tools:** Git, GitHub, VS Code, Vite
 
 ---
 
-## ⚙️ Getting Started Locally
+## 📁 Task Breakdown & Navigation
 
-To explore, run, or test any of these projects on your local machine, follow these instructions:
+Below is a quick overview of the 5 core tasks included in this repository. Click on the folder links to view the source code and individual instructions for each project.
+
+### 1️⃣ [Task 1: Basic Portfolio Site HTML Structure](./Task%201)
+
+- **Objective:** Multi-page personal portfolio website adhering strictly to modern semantic HTML5 standards and WCAG accessibility guidelines.
+- **Key Concepts:** Used semantic tags.
+- **Tech Stack:** HTML
+
+### 2️⃣ [Task 2: Basic Portfolio Site with HTML & CSS](./Task%202)
+
+- **Objective:** Transform the semantic portfolio into a visually stunning, fully responsive design using advanced CSS3 properties and modern layout architectures.
+- **Key Concepts:** Utilized CSS Grid for complex, two-dimensional page layouts.
+- **Tech Stack:** HTML CSS
+
+### 3️⃣ [Task 3: To Do List Manager](./Task%203)
+
+- **Objective:** Interactive, client-side To-Do List application to master DOM manipulation, event handling, and local data persistence.
+- **Key Concepts:** Full CRUD (Create, Read, Update, Delete) functionality.
+- **Tech Stack:** HTML CSS JS
+
+### 4️⃣ [Task 4: Weather Dashboard](./Task%204)
+
+- **Objective:** Build a real-time Weather Dashboard by fetching and processing JSON data from a public REST API using asynchronous JavaScript.
+- **Key Concepts:** Fetched real-time data using the modern Fetch API and async/await
+- **Tech Stack:** HTML CSS JS
+
+### 5️⃣ [Task 5: Thiranex StyleStore - E-Commerce Capstone](./Task%205)
+
+- **Objective:** Combine all prior knowledge to build, optimize, and deploy a comprehensive Web Development Capstone Project (e.g., an E-commerce product catalog).
+- **Key Concepts:** Architect a modular frontend application. Implement client-side routing for seamless navigation.
+- **Tech Stack:** HTML CSS JS React Vite Tailwind
+- **Live Demo:** [https://thiranex-stylestore.vercel.app/](https://thiranex-stylestore.vercel.app/)
+
+---
+
+## ⚙️ Getting Started
+
+To explore, run, or test any of these tasks locally, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/samradnyeeraulkar/Thiranex-internship.git
    cd Thiranex-internship
    ```
 
 2. **Navigate to a specific task:**
+
    ```bash
    cd "Task 5"
    ```
@@ -68,5 +76,5 @@ To explore, run, or test any of these projects on your local machine, follow the
    npm install
    npm run dev
    ```
-*(For Tasks 1-4, you can simply open the `index.html` file in your preferred web browser.)*
-# Thiranex-internship
+
+_(For Tasks 1-4, you can simply open the `index.html` file in your preferred web browser.)_
