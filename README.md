@@ -41,7 +41,7 @@ Here is a detailed breakdown of the 5 core assignments included in this reposito
 * **Key Concepts:** Asynchronous JavaScript, modern Fetch API, async/await syntax, and JSON data parsing.
 * **Tech Stack:** HTML5, CSS3, Vanilla JavaScript
 
-### 5️⃣ [Task 5: E-Commerce Product Catalog (Capstone)](./Task%205)
+### 5️⃣ [Task 5: Thiranex - StyleStore (E-Commerce Capstone)](./Task%205)
 * **Objective:** Synthesize all internship learnings to architect, optimize, and deploy a full-scale web application resembling an online storefront.
 * **Key Concepts:** Modular component architecture, client-side routing, responsive UI design, and continuous deployment.
 * **Tech Stack:** HTML5, Tailwind CSS, JavaScript, React (Vite)
@@ -69,3 +69,4 @@ To explore, run, or test any of these projects on your local machine, follow the
    npm run dev
    ```
 *(For Tasks 1-4, you can simply open the `index.html` file in your preferred web browser.)*
+# Thiranex-internship
